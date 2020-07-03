@@ -1,0 +1,21 @@
+body {
+    background-color:rgb(113, 155, 113);
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    margin:0 auto;
+    text-align: center;
+}
+
+.flex div { margin-top:15px;}
+
+.flex input {
+    padding:10px 10px;
+}
+
+.flex button {
+    padding :10px 40px;
+}
